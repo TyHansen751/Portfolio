@@ -10,7 +10,8 @@ Testing Post
 
 **Bold**
 
-
+```{r}
 x<- 2
 y<- 3
 x+y
+```
