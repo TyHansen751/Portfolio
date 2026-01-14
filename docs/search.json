@@ -25,7 +25,7 @@
     "href": "posts/post-with-code/FirstPost.html",
     "title": "First Post",
     "section": "",
-    "text": "Testing Post\n\nHeader\nBold"
+    "text": "Testing Post\n\nHeader\nBold\nx&lt;- 2 y&lt;- 3 x+y"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -39,6 +39,6 @@
     "href": "index.html",
     "title": "Tyler Hansen Portfolio",
     "section": "",
-    "text": "First Post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTyler Hansen\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 12, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 9, 2026\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Tyler Hansen\n\n\n\n\n\n\n\n\n\n\n\nJan 15, 2026\n\n\nTyler Hansen\n\n\n\n\n\n\n\n\n\n\n\n\nFirst Post\n\n\n\n\n\n\n\n\n\n\n\nJan 14, 2026\n\n\nTyler Hansen\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 12, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 9, 2026\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   }
 ]
