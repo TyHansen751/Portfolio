@@ -1,5 +1,7 @@
 ---
 title: "First Post"
+date: "2026-01-14"
+author: "Tyler Hansen"
 ---
 
 Testing Post
@@ -7,3 +9,8 @@ Testing Post
 # Header
 
 **Bold**
+
+
+x<- 2
+y<- 3
+x+y

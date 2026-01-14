@@ -1,5 +1,7 @@
 ---
 title: "Tyler Hansen"
+date: "2026-01-15"
+author: "Tyler Hansen"
 ---
 
 # Testing Post 
