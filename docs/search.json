@@ -25,7 +25,7 @@
     "href": "posts/post-with-code/FirstPost.html",
     "title": "First Post",
     "section": "",
-    "text": "Testing Post\n\nHeader\nBold\nx&lt;- 2 y&lt;- 3 x+y"
+    "text": "Testing Post\n\nHeader\nBold\n\nx&lt;- 2\ny&lt;- 3\nx+y\n\n[1] 5"
   },
   {
     "objectID": "posts/welcome/index.html",
