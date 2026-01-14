@@ -18,7 +18,7 @@
     "href": "posts/post-with-code/FirstPost.html",
     "title": "First Post",
     "section": "",
-    "text": "Testing Post"
+    "text": "Testing Post\n\nHeader\nBold"
   },
   {
     "objectID": "posts/post-with-code/index.html",
