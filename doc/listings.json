@@ -1,0 +1,13 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/Resume.html",
+      "/posts/CoverLetter.html",
+      "/posts/TestPost.html",
+      "/posts/post-with-code/FirstPost.html",
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  }
+]
