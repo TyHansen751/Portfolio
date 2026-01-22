@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: doc
+  output-dir: docs
 
 website:
   title: "Tyler Hansen Portfolio"
@@ -8,13 +8,14 @@ website:
     right:
       - about.qmd
       - text: "Resume"
-        href: posts/Resume.qmd
+        href: Resume.qmd
       - text: "Cover Letter"
-        href: posts/CoverLetter.qmd
+        href: CoverLetter.qmd
       - icon: github
         href: https://github.com/tyhansen751
       - icon: twitter
         href: https://twitter.com
+
 
 format:
   html:

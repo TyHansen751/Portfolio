@@ -13,6 +13,10 @@ about:
     - icon: github
       text: Github
       href: https://github.com
+## Documents
+
+- [Curriculum Vitae](Resume.qmd)
+- [Cover Letter](CoverLetter.qmd)
 
 ---
 
