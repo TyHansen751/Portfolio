@@ -3,19 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "Tyler Hansen Portfolio"
+  title: "Ty Hansen Portfolio"
   navbar:
     right:
-      - about.qmd
-      - text: "Resume"
-        href: Resume.qmd
-      - text: "Cover Letter"
-        href: CoverLetter.qmd
+      - href: about.qmd
+        text: About
+      - href: Resume.qmd
+        text: Resume
+      - href: CoverLetter.qmd
+        text: Cover Letter
       - icon: github
         href: https://github.com/tyhansen751
-      - icon: twitter
-        href: https://twitter.com
-
 
 format:
   html:
