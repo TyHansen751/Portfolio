@@ -4,6 +4,9 @@ format:
   pdf:
     documentclass: letter
     geometry: margin=1in
+  html:
+    toc: false
+    page-layout: article
 ---
 
 Tyler Hansen\
