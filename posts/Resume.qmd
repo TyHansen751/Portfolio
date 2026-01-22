@@ -1,7 +1,8 @@
 ---
 author: Ty Hansen
-title: Resume - Statistics Student
-format: html
+title: Statistics Student
+format:
+  classic-cv-pdf: default
 cvfooter:
   left: "mr.schochastics.net"
   right: "github.com/schochastics"
