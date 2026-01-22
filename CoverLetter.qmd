@@ -1,0 +1,40 @@
+---
+title: ""
+format: 
+  pdf:
+    documentclass: letter
+    geometry: margin=1in
+---
+
+Tyler Hansen\
+University of Nebraska-Lincoln\
+Lincoln, NE 68508\
+thansen36\@huskers.unl.edu\
+(402) 785-8122
+
+------------------------------------------------------------------------
+
+January 21, 2026
+
+Indiana Pacers Basketball Operations\
+Gainbridge Fieldhouse\
+125 S Pennsylvania St\
+Indianapolis, IN 46204
+
+------------------------------------------------------------------------
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the Basketball Analytics Intern position with the Indiana Pacers for Summer 2026. I will earn my BS degree in Statistics and Data Analytics from the University of Nebraska-Lincoln in May 2027. My objective upon graduation is to become a successful sports analytics professional in professional basketball.
+
+During my research into NBA analytics opportunities, I learned about the Pacers' commitment to using data driven insights for player development and game strategy. Your organization's approach to combining traditional basketball knowledge with advanced analytics impressed me. I am very interested in becoming apart of the analytics team contributing to the Pacers' competitive success.
+
+As my enclosed resume explains, I have completed courses related to sports analytics applications, including Statistical Learning, Data Visualization, and Regression Analysis. I am also proficient in several analytical tools such as R and Python for data processing and visualization. In addition, my experience as a Business Analyst Intern at Sandhills Global has demonstrated my ability to work with teams and to apply my technical knowledge to solve practical business problems.
+
+I am looking forward to discussing my qualifications with you. Please feel free to contact me either at (402) 785-8122 or at thansen36\@huskers.unl.edu. Meanwhile, I appreciate your help and attention.
+
+Sincerely,
+
+Tyler Hansen
+
+Enclosure
