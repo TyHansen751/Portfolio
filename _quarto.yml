@@ -6,14 +6,15 @@ website:
   title: "Tyler Hansen Portfolio"
   navbar:
     right:
-      - href: about.qmd
-        text: About
-      - href: Resume.qmd
-        text: Resume
-      - href: CoverLetter.qmd
-        text: Cover Letter
+      - about.qmd
+      - text: "Resume"
+        href: Resume/Resume.pdf
+      - text: "Cover Letter"
+        href: CoverLetter.qmd
       - icon: github
         href: https://github.com/tyhansen751
+      - icon: twitter
+        href: https://twitter.com
 
 format:
   html:
