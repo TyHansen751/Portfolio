@@ -14,12 +14,12 @@ about:
       text: Github
       href: https://github.com
 ---
-# YAML ONLY ABOVE THIS LINE
----
+
+### YAML ONLY ABOVE THIS LINE
 
 ## Documents
-- [Curriculum Vitae](Resume.qmd)
-- [Cover Letter](CoverLetter.qmd)
+
+-   [Curriculum Vitae](Resume.qmd)
+-   [Cover Letter](CoverLetter.qmd)
 
 About this blog
-
