@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Ty Hansen Portfolio"
+  title: "Tyler Hansen Portfolio"
   navbar:
     right:
       - href: about.qmd
